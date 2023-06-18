@@ -1,0 +1,46 @@
+.content {
+    height:500px; /* Replace with the actual height of your content */
+    background-color: #e6be3b;
+  }
+  .let{
+    color:white;
+    font-size: 40px;
+    text-align:center;
+    position: relative;
+    top:50px;
+  }
+  .smile{
+    color: black;
+    background-color: rgb(111, 116, 114);
+    width:100px;
+    height:100px;
+    text-align: center;
+    position: relative;
+    left:580px;
+    top:90px;
+    border-radius: 50%;
+    font-size: 70px;
+    opacity: 0.8;
+  }
+  .down{
+    height:100px;
+    background-color: red;
+  }
+  .v-shape {
+    position: absolute;
+    bottom: 50px;
+    left: 35%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 0;
+    border-left: 190px solid transparent;
+    border-right: 190px solid transparent;
+    border-top: 60px solid #e6be3b;
+    transform: rotate(360deg);
+  } 
+  
+  
+  
+  
+  
+  
